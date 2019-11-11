@@ -1,0 +1,3 @@
+The assignment did not specify whether or not to replace the Account, Vendor, and Transaction numbers with actual numbers instead of ie 'A1', so they are treated as CHAR.
+
+The assignment did not specify whether to use raise to display or to use the query result as the display, so I used the query result.
